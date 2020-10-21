@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "quiz_tp2_SAMP"

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">quiz_tp2_SAMP</string>
+    <string name="vrai">Vrai</string>
+    <string name="faux">Faux</string>
+    <string name="next">Next</string>
+    <string name="verif">Etes-vous sûr de vouloir le faire ?</string>
+    <string name="show">Montrez la réponse !</string>
+    <string name="consultation">Voir réponse</string>
+    <string name="back">revenir au quiz</string>
+    <string name="startGestion">Gestion des questions</string>
+    <string name="startQuiz">Jouer !</string>
+</resources>
